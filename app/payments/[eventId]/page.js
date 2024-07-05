@@ -1,5 +1,4 @@
 import PaymentsForm from '@/components/payments/PaymentsForm';
-import React from 'react';
 
 const PaymentPage = () => {
     return (
